@@ -1,1 +1,1 @@
-{"v":1,"items":{}}
+{"v":1,"items":{"mw60fb8t6mufc":{"id":"mw60fb8t6mufc","book":"langchain","ch":"01-introduction-to-langchain","text":"Agent = a model that decides the next step, calls tools, and loops until it has an answer","pre":" all of the above\n\n1.1 Why a framework\n\n","post":"\nThe raw loop is easy to write once. Rep","u":1794032156333}}}
